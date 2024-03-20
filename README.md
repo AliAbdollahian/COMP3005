@@ -2,6 +2,7 @@
 # Student Database Application
 
 This Java application provides functionality to interact with a student database using JDBC (Java Database Connectivity) for PostgreSQL.
+Video demonstration link: https://vimeo.com/925262630?share=copy
 
 ## Table of Contents
 1. [Introduction](#introduction)
