@@ -9,7 +9,6 @@ This Java application provides functionality to interact with a student database
 3. [Prerequisites](#prerequisites)
 4. [How to Use](#how-to-use)
 5. [Compilation and Execution](#compilation-and-execution)
-6. [License](#license)
 
 ## Introduction
 
@@ -35,7 +34,7 @@ Before running this application, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/student-database-app.git
+    git clone https://github.com/your_username/student-database-app.git   
     ```
 
 2. Make sure your PostgreSQL database server is up and running.
