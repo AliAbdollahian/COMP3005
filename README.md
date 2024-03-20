@@ -34,7 +34,7 @@ Before running this application, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/student-database-app.git   
+    git clone https://github.com/AliAbdollahian/COMP3005.git 
     ```
 
 2. Make sure your PostgreSQL database server is up and running.
